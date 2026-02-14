@@ -1,0 +1,7 @@
+{
+  "name": "Taverna do Morro",
+  "description": "A premium, modern restaurant website for Taverna do Morro, featuring a dynamic menu, online booking, and a full administrative dashboard for content management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
